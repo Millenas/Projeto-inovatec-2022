@@ -5,17 +5,17 @@
 ## Integrantes 
 
 Gestão Executiva: :dart:
-Isabelle de Lima Leite
+Isabelle de Lima Leite,
 Felipe Amaro Gomes da Silva
 
 Gestão Operacional: :kite:
-Pedro Valadares Júnior
-Izabela Cristina Lopes Carvalho
+Pedro Valadares Júnior,
+Izabela Cristina Lopes Carvalho,
 David Washington Silva
 
 Gestão de marketing: 	:art:
-Anairam Laila Gomes Souza
-Millena Sangela de Almeida Sales
+Anairam Laila Gomes Souza,
+Millena Sangela de Almeida Sales,
 Jaine Morais Santos Silva
 
 ## Passos
