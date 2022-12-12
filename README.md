@@ -20,16 +20,16 @@ Jaine Morais Santos Silva
 
 ## Passos
 
-Descrever os 5 passos para elaboração do projeto de inovação. Nesse contexto, os detalhes sobre o objetivo de cada passo estão disponíveis [aqui](https://academiapme-my.sharepoint.com/:w:/g/personal/marjory_dio_me/Efb7IK14WzJNhnx7wmDwh9gBydAUvsgfLgGvpanquISsZg). Basicamente, segue uma síntese de cada passo:
-- 1º Passo: Definir as metas e objetivos do projeto de inovação, desenhando um escopo; 
-- 2º Passo: Planejar o projeto de inovação, criando um cronograma; 
-- 3º Passo: Desenvolver o projeto de inovação, deixando claras suas entregas de valor; 
-- 4º Passo: Avaliar o projeto de inovação, coletando e analisando os feedbacks;
-- 5º Passo: Apresentar do projeto na feira de inovação 🚀
+- Os passos para desenvolver um projeto de inovação foram respondidos no segundo link abaixo.
 
 ## Pitch
 
-Descrição do Pitch (quem vai falar o que na apresentação, ordem da apresentação etc). Nesse sentido, um vídeo de Pitch pode ser criado e disponibilizado aqui (através de um link), facilitando o entendimento/compartilhamento do seu projeto de inovação. 
+### Projeto Navigator
+
+Desenvolvido para oferecer segurança para cargas, despacho de embarcações comerciais e transporte de passageiros.
+Oferecendo um serviço de gestão da sua embarcação (fiscal e comercial segundo as normativas da capitania de portos do estado vigente) e
+a localização em tempo real da embarcação. 
+
 
 Links de slides e materiais complementares :pushpin:
 
