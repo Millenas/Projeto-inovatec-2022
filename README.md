@@ -1,6 +1,6 @@
 # Projeto de Inovação (Inovatec 2022)
 
-#Equipe A Diretoria :sunglasses:
+# Equipe A Diretoria :sunglasses:
 
 ## Integrantes 
 
